@@ -1,4 +1,4 @@
-- 👋 Hello GitHub community. I am Prasanna & my GiyHub is @prasannakn.
+- 👋 Hello GitHub community. I am Prasanna & my GitHub is @prasannakn.
 - 👀 With over 13 years of IT experience, I am a Mainframe and Unix Developer. 
 - 🌱 I am a Cloud Enthusiast with a AZ-900 certificate and I am currently learning other Cloud platform concepts as well.
 - 💞️ I am looking to collaborate on developing Cloud applications.
